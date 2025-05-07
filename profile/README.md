@@ -4,7 +4,7 @@
 
 ## Purpose
 A universal JSON schema for sharing:
-- Player records
+- Song records
 - Song metadata 
 - Game profiles
 - Across different rhythm games
